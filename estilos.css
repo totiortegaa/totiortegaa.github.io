@@ -1,0 +1,222 @@
+h1{
+    color: #000000;
+    font-family: 'extra bold italic';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 80px;
+}
+
+body{
+    background: #E6DAD8;}
+.foto{
+    position: absolute;
+    width: 280px;
+    height: 300px;
+    left: 1070px;
+    top: 240px;
+    
+    background: url(yocv.jpg);
+    border-radius: 85px;
+}
+
+.textobl{
+    position: absolute;
+    width: 563px;
+    height: 212px;
+    left: 20px;
+    top: 40px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 563;
+    font-size: 20px;
+    line-height: 29px;
+    
+    color: #000000;
+    font-variation-settings: 'slnt' 0;
+}
+.subtitulo{
+    position: absolute;
+    width: 597px;
+    height: 45px;
+    left: 15px;
+    top: 80px;
+    
+    font-family: 'extra bold italic';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 30px;
+    line-height: 20px;
+    
+    color: #000000;
+}
+.header{
+    background-color: #727373;
+    position: absolute;
+    width: 1600px;
+    height: 200px;
+    left: 0px;
+    top: 0px;
+
+}
+
+nav ul li{
+    background: #83C1BE;
+    position: relative;
+    width: 180px;
+    height: 30px;
+    left: 0px;
+    top: 220px;
+   padding: 10px;
+    display: block;
+    text-align: center;
+    margin: 30px;
+    border-radius: 50px;
+    list-style-type: none;
+
+    
+}
+.fondoh2{
+    position: absolute;
+width: 600px;
+height: 250px;
+left: 390px;
+top: 270px;
+
+background:#AAE8A9;
+border-radius: 78px;
+}
+.titulo{
+    position: absolute;
+width: 675px;
+height: 117px;
+left: 10px;
+top: -50px;
+}
+.foot{
+    position: absolute;
+width: 1600px;
+height: 93px;
+left: 0px;
+top: 664px;
+
+background: #000000;
+}
+.fotoestudios{
+    position: relative;
+    width: 280px;
+    height: 250px;
+    left: 950px;
+    top: 230px;
+
+    background: url(estudios.jpg);
+    border-radius: 80px; 
+}
+.fotohab{
+    position: relative;
+    width: 280px;
+    height: 250px;
+    left: 950px;
+    top: 230px;
+
+background: url(habilidades.jpg);
+border-radius: 50px;
+}
+.fotocono{
+
+    position: relative;
+    width: 280px;
+    height: 250px;
+    left: 950px;
+    top: 230px;
+
+background: url(conocimientos);
+border-radius: 50px;
+}
+.subtitulo1{
+
+    position: absolute;
+width: 450px;
+height: 100px;
+left: 180px;
+top: -30px;
+
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 563;
+font-size: 40px;
+line-height: 58px;
+
+
+color: #000000;
+}
+.textobl1{
+position: absolute;
+width: 563px;
+height: 212px;
+left: 20px;
+top: 30px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 563;
+font-size: 20px;
+line-height: 29px;
+
+color: #000000;
+font-variation-settings: 'slnt' 0;
+}
+.subtitulo2{
+
+    position: absolute;
+width: 450px;
+height: 100px;
+left: 150px;
+top: -30px;
+
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 563;
+font-size: 40px;
+line-height: 45px;
+
+
+color: #000000;
+}
+.textobl3{
+    position: absolute;
+    width: 563px;
+    height: 212px;
+    left: 20px;
+    top: 40px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 563;
+    font-size: 20px;
+    line-height: 29px;
+    
+    color: #000000;
+    font-variation-settings: 'slnt' 0;
+
+}
+.subtitulo3{
+
+    position: absolute;
+width: 450px;
+height: 100px;
+left: 220px;
+top: -30px;
+
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 563;
+font-size: 40px;
+line-height: 45px;
+
+
+color: #000000;}
